@@ -1,0 +1,33 @@
+[
+
+    {
+        "city": "Dhaka",
+        "highTem": "40&#176;C",
+        "lowTem": "15&#176;C"
+    },
+    {
+        "city": "Khulna",
+        "highTem": "35&#176;C",
+        "lowTem": "10&#176;C"
+    },
+    {
+        "city": "Barisal",
+        "highTem": "40&#176;C",
+        "lowTem": "15&#176;C"
+    },
+    {
+        "city": "Chittagong",
+        "highTem": "35&#176;C",
+        "lowTem": "10&#176;C"
+    },
+    {
+        "city": "Rajshahi",
+        "highTem": "40&#176;C",
+        "lowTem": "15&#176;C"
+    },
+    {
+        "city": "Sylhet",
+        "highTem": "35&#176;C",
+        "lowTem": "10&#176;C"
+    }
+]
